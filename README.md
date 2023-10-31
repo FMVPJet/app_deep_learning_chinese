@@ -9,7 +9,7 @@
 
 本课程的内容随着技术的发展而变化，为了及时了解变化，请在 GitHub 上关注[作者](https://github.com/jeffheaton)。
 
-个人翻译的本书中文版发布在 [link]()。
+个人翻译的本书中文版发布在 [link](https://github.com/FMVPJet/app_deep_learning_chinese/tree/main)。
 
 ---
 
@@ -22,14 +22,12 @@
 > - [ ] 1.4 文件处理
 > - [ ] 1.5 函数、Lambda 和 Map/Reduce
 
-
 ###  Module 2: Python 机器学习
 > - [ ] 2.1 用于深度学习的 Pandas 介绍
 > - [ ] 2.2 对 Pandas 中的类别进行编码
 > - [ ] 2.3 分组、排序和随机打乱
 > - [ ] 2.4 在 Pandas 中使用 Apply 和 Map
 > - [ ] 2.5 Pandas 中的特征工程
-
 
 ###  Module 3: PyTorch 神经网络
 > - [ ] 3.1 深度学习和神经网络简介
@@ -52,9 +50,8 @@
 
 ## 👏 Acknowledgments
 
-
 - 本书为个人翻译可能存在笔误，如果发现问题大家可以 pull request。
-- 如果各位朋友觉得有用，希望能给个star支持鼓励下， 感谢?。
+- 如果各位朋友觉得有用，希望能给个star支持鼓励下， 感谢。
 - 如有侵权，立即删除。
 
 
